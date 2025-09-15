@@ -9,7 +9,7 @@
 
 **功能强大的YouTube视频下载工具，支持多种格式和高质量下载**
 
-[📥 下载最新版本](https://github.com/yourusername/videomaster-pro/releases) | [📖 使用指南](#使用指南) | [🐛 问题反馈](https://github.com/yourusername/videomaster-pro/issues)
+[📥 下载最新版本](https://github.com/jimwoocory/VideoMaster-Pro/releases) | [📖 使用指南](#使用指南) | [🐛 问题反馈](https://github.com/jimwoocory/VideoMaster-Pro/issues)
 
 </div>
 
@@ -38,15 +38,15 @@
 ## 📥 快速开始
 
 ### 方式一：直接下载（推荐）
-1. 前往 [Releases页面](https://github.com/yourusername/videomaster-pro/releases)
+1. 前往 [Releases页面](https://github.com/jimwoocory/VideoMaster-Pro/releases)
 2. 下载最新版本的 `VideoMaster Pro Complete.exe`
 3. 双击运行即可使用
 
 ### 方式二：从源码运行
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/videomaster-pro.git
-cd videomaster-pro
+git clone https://github.com/jimwoocory/VideoMaster-Pro.git
+cd VideoMaster-Pro
 
 # 安装依赖
 pip install -r requirements.txt
@@ -166,9 +166,9 @@ A: 确保系统满足最低要求，关闭杀毒软件重试。
 
 ## 📞 联系我们
 
-- 📧 邮箱: your.email@example.com
-- 🐛 问题反馈: [GitHub Issues](https://github.com/yourusername/videomaster-pro/issues)
-- 💬 讨论: [GitHub Discussions](https://github.com/yourusername/videomaster-pro/discussions)
+- 📧 邮箱: jimwoocory@gmail.com
+- 🐛 问题反馈: [GitHub Issues](https://github.com/jimwoocory/VideoMaster-Pro/issues)
+- 💬 讨论: [GitHub Discussions](https://github.com/jimwoocory/VideoMaster-Pro/discussions)
 
 ---
 

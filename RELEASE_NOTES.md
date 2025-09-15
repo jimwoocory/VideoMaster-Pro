@@ -7,14 +7,14 @@
 ## 📥 下载链接
 
 ### 推荐下载（Windows 64位）
-- **[VideoMaster Pro Complete.exe](https://github.com/yourusername/videomaster-pro/releases/download/v1.0.0/VideoMaster.Pro.Complete.exe)** (156 MB)
+- **[VideoMaster Pro Complete.exe](https://github.com/jimwoocory/VideoMaster-Pro/releases/download/v1.0.0/VideoMaster.Pro.Complete.exe)** (156 MB)
   - 包含所有依赖项的完整版本
   - 无需安装Python或其他工具
   - 双击即可运行
 
 ### 源代码
-- **[Source Code (zip)](https://github.com/yourusername/videomaster-pro/archive/refs/tags/v1.0.0.zip)**
-- **[Source Code (tar.gz)](https://github.com/yourusername/videomaster-pro/archive/refs/tags/v1.0.0.tar.gz)**
+- **[Source Code (zip)](https://github.com/jimwoocory/VideoMaster-Pro/archive/refs/tags/v1.0.0.zip)**
+- **[Source Code (tar.gz)](https://github.com/jimwoocory/VideoMaster-Pro/archive/refs/tags/v1.0.0.tar.gz)**
 
 ## ✨ 主要特性
 
@@ -106,9 +106,9 @@
 
 ### 获取帮助
 - 📖 **使用指南**: 查看 [README.md](README.md)
-- 🐛 **问题反馈**: [GitHub Issues](https://github.com/yourusername/videomaster-pro/issues)
-- 💬 **社区讨论**: [GitHub Discussions](https://github.com/yourusername/videomaster-pro/discussions)
-- 📧 **邮件联系**: your.email@example.com
+- 🐛 **问题反馈**: [GitHub Issues](https://github.com/jimwoocory/VideoMaster-Pro/issues)
+- 💬 **社区讨论**: [GitHub Discussions](https://github.com/jimwoocory/VideoMaster-Pro/discussions)
+- 📧 **邮件联系**: jimwoocory@gmail.com
 
 ### 常见问题
 1. **Q: 程序无法启动？**
