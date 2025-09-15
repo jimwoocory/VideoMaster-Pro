@@ -166,7 +166,7 @@ A: 确保系统满足最低要求，关闭杀毒软件重试。
 
 ## 📞 联系我们
 
-- 📧 邮箱: your.email@example.com
+- 📧 邮箱: jimwoo.cory@gmail.com
 - 🐛 问题反馈: [GitHub Issues](https://github.com/yourusername/videomaster-pro/issues)
 - 💬 讨论: [GitHub Discussions](https://github.com/yourusername/videomaster-pro/discussions)
 
