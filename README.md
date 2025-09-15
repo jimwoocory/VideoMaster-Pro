@@ -9,7 +9,7 @@
 
 **功能强大的YouTube视频下载工具，支持多种格式和高质量下载**
 
-[📥 下载最新版本](https://github.com/jimwoocory/VideoMaster-Pro/releases) | [📖 使用指南](#使用指南) | [🐛 问题反馈](https://github.com/jimwoocory/VideoMaster-Pro/issues)
+[📥 下载指南](DOWNLOAD.md) | [📖 使用指南](#-使用指南) | [🐛 问题反馈](https://github.com/jimwoocory/VideoMaster-Pro/issues)
 
 </div>
 
@@ -38,9 +38,11 @@
 ## 📥 快速开始
 
 ### 方式一：直接下载（推荐）
-1. 前往 [Releases页面](https://github.com/jimwoocory/VideoMaster-Pro/releases)
-2. 下载最新版本的 `VideoMaster Pro Complete.exe`
+1. 查看 [下载指南](DOWNLOAD.md) 获取最新版本
+2. 下载 `VideoMaster Pro Complete.exe` (156 MB)
 3. 双击运行即可使用
+
+> **提示**: 如果遇到下载问题，请查看详细的 [下载指南](DOWNLOAD.md)
 
 ### 方式二：从源码运行
 ```bash
