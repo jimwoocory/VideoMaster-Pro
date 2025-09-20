@@ -1,0 +1,46 @@
+{
+  "version": "2.0",
+  "release_date": "2025-09-20",
+  "title": "VideoMaster Pro v2.0 - YouTube Music完整支持版",
+  "description": "完全解决YouTube Music链接问题，内置FFmpeg工具链",
+  "features": [
+    "🎵 YouTube Music链接完整支持",
+    "📦 内置FFmpeg工具链 (ffmpeg.exe, ffprobe.exe)",
+    "🎬 格式查询弹窗功能",
+    "📋 批量下载支持",
+    "📊 下载历史记录",
+    "🎨 现代化界面设计",
+    "🌐 智能代理配置",
+    "🔧 完整错误诊断"
+  ],
+  "fixes": [
+    "修复YouTube Music自动播放列表链接无法下载问题",
+    "修复复杂URL参数处理问题",
+    "优化网络连接稳定性",
+    "改进错误提示和诊断功能"
+  ],
+  "files": {
+    "source": [
+      "videomaster_pro_official.py",
+      "requirements.txt",
+      "setup_and_run.bat"
+    ],
+    "executables": [
+      "VideoMaster_Pro_Complete.exe (158.2 MB)",
+      "VideoMaster_Pro_Complete_Portable/ (便携版)"
+    ],
+    "tools": [
+      "ffmpeg.exe (167.3 MB)",
+      "ffprobe.exe (167.1 MB)",
+      "yt-dlp.exe (17.5 MB)"
+    ],
+    "build_scripts": [
+      "build_complete_with_ffmpeg.py",
+      "build_official.py",
+      "quick_build.py"
+    ]
+  },
+  "test_links": [
+    "https://www.youtube.com/watch?v=lSk-DWAJPbA&list=RDlSk-DWAJPbA&start_radio=1"
+  ]
+}

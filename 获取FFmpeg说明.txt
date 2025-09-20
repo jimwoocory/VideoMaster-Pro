@@ -1,0 +1,22 @@
+FFmpeg 获取说明
+================
+
+由于自动下载 FFmpeg 遇到问题，请按以下步骤手动获取：
+
+方法1：从官方网站下载
+1. 访问：https://www.gyan.dev/ffmpeg/builds/
+2. 下载 "release builds" 中的 "essentials" 版本
+3. 解压后在 bin 文件夹中找到 ffmpeg.exe 和 ffprobe.exe
+4. 将这两个文件复制到项目的 dependencies 文件夹中
+
+方法2：使用 Chocolatey（如果已安装）
+1. 打开管理员权限的 PowerShell
+2. 运行：choco install ffmpeg
+3. 从安装目录复制 ffmpeg.exe 和 ffprobe.exe 到 dependencies 文件夹
+
+方法3：使用 winget（Windows 10/11）
+1. 打开 PowerShell
+2. 运行：winget install ffmpeg
+3. 从安装目录复制文件到 dependencies 文件夹
+
+完成后运行：python build_simple.py
